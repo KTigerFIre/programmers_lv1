@@ -30,5 +30,8 @@
     <ClCompile Include="숫자문자열과영단어.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="모의고사.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
